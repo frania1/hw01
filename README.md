@@ -2,8 +2,11 @@
 Hello! My name is Frania Mendoza Lua, I am a second year **PHD student** at the *School of Social Administration*. 
 
 I study:
+
 *immigration
+
 *teens
+
 *teen health behaviors
 
 #What am I doing across the Midway?
